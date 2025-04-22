@@ -138,8 +138,8 @@ const Contributors = [
 For questions, feedback, or collaboration, reach out at:
 
 
-📧 [Mail](mailto:arindalchar17@gmail.com) <br>
-📧 [Mail](mailto:sagnikhorerock@gmail.com) <br>
+📧 [Arindal](mailto:arindalchar17@gmail.com) <br>
+📧 [Sagnik](mailto:sagnikhorerock@gmail.com) <br>
 
 ---
 
