@@ -108,7 +108,7 @@ Contrastive explanations help answer:<br>
 
 ## The Team
 
-<a href="https://github.com/arindal1" target="_blank"><img src="https://github.com/arindal1.png" width="50px" height="50" style="border-radius: 50%;"></a>
+<a href="https://github.com/trisha-rc" target="_blank"><img src="https://github.com/trisha-rc.png" width="50px" height="50" style="border-radius: 50%;"></a>
 <a href="[profile link]" target="_blank"><img src="[profile link + .png]" width="50px" height="50" style="border-radius: 50%;"></a>
 
 
@@ -116,8 +116,8 @@ Contrastive explanations help answer:<br>
 ```javascript
 const Contributors = [
   {
-    name: "🐐 arindal1",
-    roles: ["Main Researcher", "Analyst", "Documenter"]
+    name: "🐐 trisha-rc",
+    roles: ["Analyst", "Documenter"]
   },
   {
     name: "username",
@@ -132,9 +132,8 @@ const Contributors = [
 
 For questions, feedback, or collaboration, reach out at:
 
-🔗 [LinkedIn](https://linkedin.com/in/arindalchar) <br>
-🐦 [Twitter](https://twitter.com/arindal_17) <br>
-📧 [Mail](mailto:arindalchar17@gmail.com) <br>
+
+📧 [Mail](mailto:trisha.rc888@gmail.com) <br>
 
 ---
 
