@@ -136,6 +136,7 @@ const Contributors = [
 ## 📬 Contact
 
 For questions, feedback, or collaboration, reach out at:
+sagnikhorerock@gmail.com,arindalchar17@gmail.com
 
 
 📧 [Mail](mailto:trisha.rc888@gmail.com) <br>
