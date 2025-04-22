@@ -1,0 +1,26 @@
+{
+    "mean_sparsity": 0.9134765625,
+    "mean_fidelity": 0.613215708732605,
+    "all_metrics": [
+        {
+            "sparsity": 1.0,
+            "fidelity": 0.4183838367462158
+        },
+        {
+            "sparsity": 1.0,
+            "fidelity": 0.9901214241981506
+        },
+        {
+            "sparsity": 1.0,
+            "fidelity": 0.7698485255241394
+        },
+        {
+            "sparsity": 1.0,
+            "fidelity": 0.9988469481468201
+        },
+        {
+            "sparsity": 0.5673828125,
+            "fidelity": -0.11112219095230103
+        }
+    ]
+}
