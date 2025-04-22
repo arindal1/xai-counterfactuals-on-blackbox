@@ -76,7 +76,7 @@ Contrastive explanations help answer:<br>
 
 | Original Image | Grad-CAM | Counterfactual | Overlay |
 |----------------|----------|----------------|---------|
-| <img src="init_research/visualizations/sample.png" width="200px"> | <img src="init_research/visualizations/grad_cam.png" width="200px"> | <img src="init_research/visualizations/cf-map-5.png" width="900px"> | <img src="init_research/visualizations/cf-map-6.png" width="200px"> |
+| <img src="init_research/visualizations/sample.png" width="200px"> | <img src="init_research/visualizations/grad_cam.png" width="200px"> | <img src="init_research/visualizations/cf-map-1.png" width="900px"> | <img src="init_research/visualizations/cf-map-6.png" width="200px"> |
 
 > Counterfactuals show *how close* the image was to being classified differently.
 
