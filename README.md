@@ -120,8 +120,8 @@ const Contributors = [
     roles: ["Main Researcher", "Analyst", "Documenter"]
   },
   {
-    name: "username",
-    roles: ["role", "role"]
+    name: "📒 Shback007",
+    roles: ["Analyst", "Main Documentor"]
   }
 ];
 ```
