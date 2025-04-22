@@ -107,7 +107,8 @@ Contrastive explanations help answer:<br>
 ---
 
 ## The Team
-
+<a href="https://github.com/arindal1" target="_blank"><img src="https://github.com/arindal1.png" width="50px" height="50" style="border-radius: 50%;"></a>
+<a href="https://github.com/shback007" target="_blank"><img src="https://github.com/shback007.png" width="50px" height="50" style="border-radius: 50%;"></a>
 <a href="https://github.com/trisha-rc" target="_blank"><img src="https://github.com/trisha-rc.png" width="50px" height="50" style="border-radius: 50%;"></a>
 <a href="[profile link]" target="_blank"><img src="[profile link + .png]" width="50px" height="50" style="border-radius: 50%;"></a>
 
@@ -115,13 +116,17 @@ Contrastive explanations help answer:<br>
 
 ```javascript
 const Contributors = [
-  {
-    name: "🐐 trisha-rc",
-    roles: ["Analyst", "Documenter"]
+{
+    name: "🐐 Arindal Char",
+    roles: ["Main Analyst", "Main Researcher","Documenter"]
   },
   {
-    name: "username",
-    roles: ["role", "role"]
+    name: "😊 Trisha Roy Choudhury",
+    roles: ["Analyst"]
+  },
+  {
+    name: " 📒 Sagnik Hore",
+    roles: ["Main Documenter", "Researcher"]
   }
 ];
 ```
@@ -133,7 +138,8 @@ const Contributors = [
 For questions, feedback, or collaboration, reach out at:
 
 
-📧 [Mail](mailto:trisha.rc888@gmail.com) <br>
+📧 [Arindal](mailto:arindalchar17@gmail.com) <br>
+📧 [Sagnik](mailto:sagnikhorerock@gmail.com) <br>
 
 ---
 
