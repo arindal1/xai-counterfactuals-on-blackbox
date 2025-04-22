@@ -39,8 +39,7 @@ Contrastive explanations help answer:<br>
 ```
 ├── final_notebook.ipynb              # Final implementation and results
 ├── Attention-Enhanced CNNs...pdf     # Research report and documentation
-├── data/                             # Resized MNIST dataset, metrics CSVs
-├── models/                           # Saved fine-tuned models
+├── data/                             # Data, metrics CSVs
 ├── init_research/                    # Initial experiments, baselines, logs
 ├── notebooks/                        # Research notebooks, ablation studies
 ├── requirements.txt                  # Libraries and imports used
