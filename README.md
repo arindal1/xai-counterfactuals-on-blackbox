@@ -78,11 +78,11 @@ Contrastive explanations help answer:<br>
 |----------------|----------|----------------|---------|
 | <img src="init_research/visualizations/sample.png" width="200px"> | <img src="init_research/visualizations/grad_cam.png" width="200px"> | <img src="init_research/visualizations/cf-map-1.png" width="900px"> | <img src="init_research/visualizations/cf-map-6.png" width="200px"> |
 
-> Counterfactuals show *how close* the image was to being classified differently.
+> Counterfactuals show *how close* the image was to being classified differently, and the pixels required to flip it's decision.
 
 ---
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 1. Clone the repository:
    ```bash
@@ -103,6 +103,7 @@ Contrastive explanations help answer:<br>
    ```
 
 > Recommended environment: Google Colab with T4 GPU
+> Colab Notebook: [xai-counterfactuals](https://colab.research.google.com/drive/1f8L2nro_VtCefIqwRCDQO7SmpIzIYmSd?usp=sharing)
 
 ---
 
@@ -137,7 +138,7 @@ const Contributors = [
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, feedback, or collaboration, reach out at:
 
